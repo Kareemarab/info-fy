@@ -1,0 +1,6 @@
+framework module Pods_info_fyTests {
+  umbrella header "Pods-info-fyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

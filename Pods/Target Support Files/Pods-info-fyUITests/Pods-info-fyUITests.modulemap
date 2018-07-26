@@ -1,0 +1,6 @@
+framework module Pods_info_fyUITests {
+  umbrella header "Pods-info-fyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

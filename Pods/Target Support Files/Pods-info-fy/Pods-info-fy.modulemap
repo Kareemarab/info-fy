@@ -1,0 +1,6 @@
+framework module Pods_info_fy {
+  umbrella header "Pods-info-fy-umbrella.h"
+
+  export *
+  module * { export * }
+}
